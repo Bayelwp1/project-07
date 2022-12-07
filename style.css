@@ -1,0 +1,10 @@
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+.header {
+  background-color: rgb(9, 133, 186);
+}
+.title {
+  color: rgb(10, 237, 10);
+}
