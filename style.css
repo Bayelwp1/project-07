@@ -12,3 +12,11 @@
   padding: 50px;
   background-color: rgb(29, 135, 255);
 }
+.footer {
+  padding: 20px;
+  background-color: rgb(103, 102, 102);
+}
+.footer__text {
+  font-size: 20px;
+  color: chartreuse;
+}
